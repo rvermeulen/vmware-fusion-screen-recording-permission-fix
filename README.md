@@ -1,5 +1,7 @@
 # README
 
+**Disclaimer**: I only tested it on my own machine so your milage may vary and don't forget, *use it at your own risk*.
+
 This project aims to fix the missing *Screen Recording* permisison request for VMware Fusion 10. 
 
 It injects a dynamic library that that invokes an API requiring the *Screen Recording* permission and thus triggering the permission modal
